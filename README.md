@@ -1,6 +1,6 @@
-# hello-world
+# Goodmates
 
-> Hello world application using nuxtjs
+> An application to find your mates around and help each other in highs and lows.
 
 ## Build Setup
 
@@ -19,4 +19,4 @@ $ yarn start
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+This project is using `Nuxtjs`. For details of documentation, checkout [Nuxt.js docs](https://nuxtjs.org).
